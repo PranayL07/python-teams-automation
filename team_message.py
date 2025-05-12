@@ -3,7 +3,7 @@ import pygetwindow as gw
 import time
 
 # List of names to whom the message will be sent
-names = ["Prathmesh Bhoyar", "Kalyani Bichewar", "Aditya Admane"]
+names = ["John Doe", "Frank Steve", "Michael Giff"]
 
 # Message to send
 message = "Hello! This is a test message."
